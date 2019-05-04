@@ -20,20 +20,11 @@ export default {
       tags: {
         tag4: 'info',
         tag3: 'warning',
-        backend: 'danger',
         tag1_Unpackaged: 'success',
         tag2_ZeroWaste: 'secondary',
-        hybrid: 'info',
-        database: 'danger'
       }
     };
   },
-  // filters: {
-  //  // this filter will can be used to capitalise words
-  //  capitalize: item => {
-  //    return item.toUpperCase();
-  //  }
-  // },
   props: {
     // this component expects a prop of type object
     item: {
