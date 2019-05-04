@@ -6,21 +6,20 @@
 
 <script>
 export default {
-	name: 'App'
+  name: 'App'
 };
 </script>
 
 <style>
 #app {
-	margin-top: 50px;
+  margin-top: 50px;
 }
 
 .search-wrapper {
-	margin: 20px;
+  margin: 20px;
 }
 
 .badge {
-	border-radius: 0;
+  border-radius: 0;
 }
 </style>
-
