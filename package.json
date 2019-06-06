@@ -46,7 +46,6 @@
     "not ie <= 8"
   ],
   "vue": {
-    "publicPath":"/searchBar-test/"
+    "publicPath": "/searchBar-test/"
   }
 }
-

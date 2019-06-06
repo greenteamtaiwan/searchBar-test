@@ -29,7 +29,7 @@ const data = [
 		  "business_time" : "",
 		  "latitude" : 22.74739,
 		  "longitude" : 121.132759,
-		  "name" : "迷走。回家旅人空間",
+		  "name" : "迷走 * 回家旅人空間",
 		  "phone" : 989360055,
 		  "remark" : "",
 		  "shop_type" : "",
